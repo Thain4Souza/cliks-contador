@@ -9,3 +9,4 @@ function resetar() {
   contador = 0;
   document.getElementById("contador").textContent = contador;
 }
+
